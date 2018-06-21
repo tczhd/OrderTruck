@@ -1,0 +1,80 @@
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csprojResolveAssemblyReference.cache
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\Users\David Zhu\Desktop\Asp.net Core Api\Fiver.Security.Bearer-master\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\TestProjects\TestWebApi\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+C:\TestProjects\TestWebApi\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\TestProjects\TestWebApi\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\TestProjects\TestWebApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+C:\TestProjects\TestWebApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+C:\TestProjects\TestWebApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+C:\TestProjects\TestWebApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\TestProjects\TestWebApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csprojResolveAssemblyReference.cache
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\TestProjects\OnSignupApi\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csprojResolveAssemblyReference.cache
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csprojResolveAssemblyReference.cache
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+E:\Projects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\OtherProjects\Repos\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csprojResolveAssemblyReference.cache
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csprojAssemblyReference.cache
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+D:\Projects\OnSignup\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csprojAssemblyReference.cache
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+D:\ProjectRepository\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.deps.json
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\bin\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csprojAssemblyReference.cache
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfoInputs.cache
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.AssemblyInfo.cs
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.dll
+C:\Users\hongd\source\repos\OrderTruck\Fiver.Security.Bearer.Helpers\obj\Debug\netstandard2.0\Fiver.Security.Bearer.Helpers.pdb

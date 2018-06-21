@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <UserSecretsId>aspnet-OnSignup.API-846B6789-3BF1-41A9-ADC3-DD090BCD65F2</UserSecretsId>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Data" Version="1.0.0" />
+    <PackageReference Include="FluentValidation" Version="7.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="2.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.0.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.0" PrivateAssets="All" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.Extensions.SecretManager.Tools" Version="2.0.0" />
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Fiver.Security.Bearer.Helpers\Fiver.Security.Bearer.Helpers.csproj" />
+    <ProjectReference Include="..\OrderTruck.Data\OrderTruck.Data.csproj" />
+    <ProjectReference Include="..\OrderTruck.Facade\OrderTruck.Facade.csproj" />
+    <ProjectReference Include="..\OrderTruck.FrameWork\OrderTruck.FrameWork.csproj" />
+    <ProjectReference Include="..\OrderTruck.Migrations\OrderTruck.Migrations.csproj" />
+    <ProjectReference Include="..\OrderTruck.Model\OrderTruck.Model.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -6,8 +6,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.Extensions.Logging;
 using OrderTruck.Model;
-using OrderTruck.API.Models.AccountViewModels;
-using OrderTruck.API.Services;
+using OrderTruck.BackendAndApi.Models.AccountViewModels;
+using OrderTruck.BackendAndApi.Services;
 
 namespace Fiver.Security.Bearer.Controllers
 {

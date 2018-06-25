@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using OrderTruck.Model.Entities;
 
-namespace OrderTruck.API.ViewModels.Mappings
+namespace OrderTruck.BackendAndApi.ViewModels.Mappings
 {
     public class DomainToViewModelMappingProfile : Profile
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26906.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderTruck.API", "OrderTruck.API\OrderTruck.API.csproj", "{463E75FB-397B-4965-8927-043991365E9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderTruck.BackendAndApi", "OrderTruck.API\OrderTruck.BackendAndApi.csproj", "{463E75FB-397B-4965-8927-043991365E9B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderTruck.Data", "OrderTruck.Data\OrderTruck.Data.csproj", "{E01AD98C-368E-4CDA-A450-2B392A488BB0}"
 EndProject

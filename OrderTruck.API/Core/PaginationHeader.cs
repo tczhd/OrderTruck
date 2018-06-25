@@ -1,4 +1,4 @@
-﻿namespace OrderTruck.API.Core
+﻿namespace OrderTruck.BackendAndApi.Core
 {
     public class PaginationHeader
     {

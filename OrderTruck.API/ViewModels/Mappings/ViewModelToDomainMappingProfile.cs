@@ -2,7 +2,7 @@
 using OrderTruck.Model;
 using System.Collections.Generic;
 
-namespace OrderTruck.API.ViewModels.Mappings
+namespace OrderTruck.BackendAndApi.ViewModels.Mappings
 {
     public class ViewModelToDomainMappingProfile : Profile
     {

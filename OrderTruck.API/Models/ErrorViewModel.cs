@@ -1,6 +1,6 @@
 using System;
 
-namespace OrderTruck.API.Models
+namespace OrderTruck.BackendAndApi.Models
 {
     public class ErrorViewModel
     {

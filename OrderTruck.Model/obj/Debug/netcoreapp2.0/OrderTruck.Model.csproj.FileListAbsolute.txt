@@ -10,7 +10,6 @@ D:\ProjectRepository\OrderTruck\OnSignup.Model\obj\Debug\netcoreapp2.0\OrderTruc
 C:\Users\hongd\source\repos\OrderTruck\OrderTruck.Model\bin\Debug\netcoreapp2.0\OrderTruck.Model.deps.json
 C:\Users\hongd\source\repos\OrderTruck\OrderTruck.Model\bin\Debug\netcoreapp2.0\OrderTruck.Model.dll
 C:\Users\hongd\source\repos\OrderTruck\OrderTruck.Model\bin\Debug\netcoreapp2.0\OrderTruck.Model.pdb
-C:\Users\hongd\source\repos\OrderTruck\OrderTruck.Model\obj\Debug\netcoreapp2.0\OrderTruck.Model.csprojAssemblyReference.cache
 C:\Users\hongd\source\repos\OrderTruck\OrderTruck.Model\obj\Debug\netcoreapp2.0\OrderTruck.Model.csproj.CoreCompileInputs.cache
 C:\Users\hongd\source\repos\OrderTruck\OrderTruck.Model\obj\Debug\netcoreapp2.0\OrderTruck.Model.AssemblyInfoInputs.cache
 C:\Users\hongd\source\repos\OrderTruck\OrderTruck.Model\obj\Debug\netcoreapp2.0\OrderTruck.Model.AssemblyInfo.cs

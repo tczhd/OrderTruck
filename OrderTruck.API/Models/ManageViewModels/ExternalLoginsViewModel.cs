@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Identity;
 
-namespace OrderTruck.API.Models.ManageViewModels
+namespace OrderTruck.BackendAndApi.Models.ManageViewModels
 {
     public class ExternalLoginsViewModel
     {

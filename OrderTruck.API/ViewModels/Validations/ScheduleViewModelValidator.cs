@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
 using System;
 
-namespace OrderTruck.API.ViewModels.Validations
+namespace OrderTruck.BackendAndApi.ViewModels.Validations
 {
     public class ScheduleViewModelValidator : AbstractValidator<ScheduleViewModel>
     {

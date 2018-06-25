@@ -13529,9 +13529,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hongd\\source\\repos\\OrderTruck\\OrderTruck.API\\OrderTruck.API.csproj",
-      "projectName": "OrderTruck.API",
-      "projectPath": "C:\\Users\\hongd\\source\\repos\\OrderTruck\\OrderTruck.API\\OrderTruck.API.csproj",
+      "projectUniqueName": "C:\\Users\\hongd\\source\\repos\\OrderTruck\\OrderTruck.API\\OrderTruck.BackendAndApi.csproj",
+      "projectName": "OrderTruck.BackendAndApi",
+      "projectPath": "C:\\Users\\hongd\\source\\repos\\OrderTruck\\OrderTruck.API\\OrderTruck.BackendAndApi.csproj",
       "packagesPath": "C:\\Users\\hongd\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\hongd\\source\\repos\\OrderTruck\\OrderTruck.API\\obj\\",
       "projectStyle": "PackageReference",

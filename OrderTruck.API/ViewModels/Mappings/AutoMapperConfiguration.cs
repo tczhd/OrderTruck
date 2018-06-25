@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 
-namespace OrderTruck.API.ViewModels.Mappings
+namespace OrderTruck.BackendAndApi.ViewModels.Mappings
 {
     public class AutoMapperConfiguration
     {

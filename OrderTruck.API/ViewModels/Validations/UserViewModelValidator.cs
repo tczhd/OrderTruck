@@ -1,6 +1,6 @@
 ﻿using FluentValidation;
 
-namespace OrderTruck.API.ViewModels.Validations
+namespace OrderTruck.BackendAndApi.ViewModels.Validations
 {
     public class UserViewModelValidator : AbstractValidator<UserViewModel>
     {

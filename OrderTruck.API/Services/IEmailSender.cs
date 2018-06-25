@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace OrderTruck.API.Services
+namespace OrderTruck.BackendAndApi.Services
 {
     public interface IEmailSender
     {

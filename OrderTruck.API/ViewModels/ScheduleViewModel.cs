@@ -1,10 +1,10 @@
-﻿using OrderTruck.API.ViewModels.Validations;
+﻿using OrderTruck.BackendAndApi.ViewModels.Validations;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
-namespace OrderTruck.API.ViewModels
+namespace OrderTruck.BackendAndApi.ViewModels
 {
     public class ScheduleViewModel : IValidatableObject
     {

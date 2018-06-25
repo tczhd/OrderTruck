@@ -11,10 +11,10 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using OrderTruck.Model;
-using OrderTruck.API.Models.ManageViewModels;
-using OrderTruck.API.Services;
+using OrderTruck.BackendAndApi.Models.ManageViewModels;
+using OrderTruck.BackendAndApi.Services;
 
-namespace OrderTruck.API.Controllers
+namespace OrderTruck.BackendAndApi.Controllers
 {
     [Authorize]
     [Route("[controller]/[action]")]

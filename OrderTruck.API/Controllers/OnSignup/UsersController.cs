@@ -5,14 +5,14 @@ using Microsoft.AspNetCore.Mvc;
 using OrderTruck.Data.Abstract;
 using OrderTruck.Model;
 using OrderTruck.Model.Entities;
-using OrderTruck.API.ViewModels;
+using OrderTruck.BackendAndApi.ViewModels;
 using AutoMapper;
-using OrderTruck.API.Core;
+using OrderTruck.BackendAndApi.Core;
 using OrderTruck.Facade.UserServiceGroup;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 
-namespace OrderTruck.API.Controllers
+namespace OrderTruck.BackendAndApi.Controllers
 {
     [Authorize(AuthenticationSchemes = JwtBearerDefaults.AuthenticationScheme, Policy = "Member")]
     [Route("api/[controller]")]

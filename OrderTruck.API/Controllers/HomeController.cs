@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using OrderTruck.API.Models;
+using OrderTruck.BackendAndApi.Models;
 
-namespace OrderTruck.API.Controllers
+namespace OrderTruck.BackendAndApi.Controllers
 {
     public class HomeController : Controller
     {

@@ -13,11 +13,11 @@ using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using OrderTruck.Data;
 using OrderTruck.Model;
-using OrderTruck.API.Services;
+using OrderTruck.BackendAndApi.Services;
 using OrderTruck.Data.Abstract;
 using OrderTruck.Data.Repositories;
 
-namespace OrderTruck.API
+namespace OrderTruck.BackendAndApi
 {
     public class Startup
     {

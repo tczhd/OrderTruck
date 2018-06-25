@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text.Encodings.Web;
 using System.Threading.Tasks;
-using OrderTruck.API.Services;
+using OrderTruck.BackendAndApi.Services;
 
-namespace OrderTruck.API.Services
+namespace OrderTruck.BackendAndApi.Services
 {
     public static class EmailSenderExtensions
     {

@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace OrderTruck.API.Models.AccountViewModels
+namespace OrderTruck.BackendAndApi.Models.AccountViewModels
 {
     public class ExternalLoginViewModel
     {

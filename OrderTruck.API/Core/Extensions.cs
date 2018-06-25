@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 
-namespace OrderTruck.API.Core
+namespace OrderTruck.BackendAndApi.Core
 {
     public static class Extensions
     {
